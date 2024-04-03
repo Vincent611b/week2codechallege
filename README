@@ -1,0 +1,40 @@
+# (# Week-2-Code-Challenge)
+This repository contains a collection of projects built using JavaScript and Node.js. Each project serves a specific purpose as shown below:
+
+# Project Name
+Week-2 Code Challenge
+
+# Author
+Vincent Njogu
+
+# PROJECT SETUP 
+Description
+This repository contains a collection of projects built using JavaScript and Node.js. Each project serves a specific purpose as shown below:
+
+     1.String Case Swapper Function: Swap Case of Characters
+   Description
+"Swap Case Function: This Javascript function efficiently transforms the case of characters within a given string. By accepting a string input, it iterates through each character, toggling between uppercase and lowercase using list comprehension. If a character is originally uppercase, it converts it to lowercase, and vice versa. Finally, the function returns the modified string where the case of each character has been swapped. This versatile tool can be easily integrated into various applications where such case conversions are required, offering a simple yet effective solution."
+
+     2.Number Generator Between Two numbers in Array
+   Description
+This JavaScript function takes two numbers as input and generates an array containing all the integers between them, inclusive. Whether the numbers are positive, negative, or a combination of both, the function returns an array that includes all the integers between them in ascending order.
+
+     3. Prime Number Extractor
+   Description
+The "Prime Number Extractor" is a function designed to filter prime numbers from an input array while maintaining their original order. This algorithm utilizes optimized techniques to accurately identify prime numbers within the array, ensuring efficiency and reliability. By employing a systematic approach, it guarantees that the resulting array contains only prime numbers, allowing for streamlined processing of numerical data.
+
+# Technologies used
+Javascript
+Node.js
+
+
+# How to run
+1. Clone the repository to your local machine.
+2. Navigate to directory of each program, e.g. 'index1.js'.
+3. Open your terminal and run 'node [directoryname] index1.js'.
+
+# Support and contact details
+github.com/Vincent611b.com
+
+# License
+This project is licensed under the terms of the MIT License.
